@@ -15,7 +15,7 @@ The average of each type is as follows
 - Suburban is $30.97 per ride and $39.50 per driver
 - Rural is $34.62 per ride and $55.49 per driver
 
-insert graph
+![Summary](/analysis/Plot.png)
 
 The line plot below shows that within the time frame of Jan 2019 through Apr 2019
 - None of the line intersects which means that they are all comparable in prices depending on type of city
@@ -23,7 +23,7 @@ The line plot below shows that within the time frame of Jan 2019 through Apr 201
   - Suburban has been performing between 500 and 1500 range
   - Rural has been performing between 0 to 500 range
 - there was one good week in february where all 3 type spiked
- insert plot
+ ![Summary](/analysis/PyBer_fare_summary.png)
 
 ## Summary:
 Based on these results, here are my recommendations:
